@@ -1,0 +1,121 @@
+/* .App {
+  text-align: center;
+}
+
+.App-logo {
+  height: 40vmin;
+  pointer-events: none;
+}
+
+@media (prefers-reduced-motion: no-preference) {
+  .App-logo {
+    animation: App-logo-spin infinite 20s linear;
+  }
+}
+
+.App-header {
+  background-color: #282c34;
+  min-height: 100vh;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  font-size: calc(10px + 2vmin);
+  color: white;
+}
+
+.App-link {
+  color: #4A78EE;
+} */
+body{
+  margin: 0px;
+}
+.image{
+  /* Back to School Vector Illustration-ai 1 */
+  
+  width: 40vw;
+  height: 60vh;
+  margin-left: 150px;
+  background-size:cover;
+}
+.para{
+  /* For an improved learning and teaching experience! */
+  margin-left: 130px;
+  margin-top: 40px;
+  width: 550px;
+  height: 120px;
+  left: 95px;
+  top: 230px;
+
+  font-family: 'Nunito';
+  font-style: normal;
+  font-weight: 600;
+  font-size: 30px;
+  line-height: 49px;
+  text-align: center;
+  
+
+  color: rgba(255, 255, 255, 0.945);
+}
+.navbar-nav{
+  /* background-color: aqua; */
+  margin-left: auto;
+  padding: 20px;
+  font-size: 20px;
+  font-family: 'Nunito';
+
+  
+}
+.navbar-brand{
+  padding-left: 25px;
+  font-size: 30px;
+  font-weight: bold;
+  font-family: 'Nunito';
+  color: #FFFFFF;
+  
+}
+.container{
+  position: absolute;
+  width: 569px;
+  height: 617px;
+  left: 820px;
+  top: 248px;
+  
+  position: absolute;
+  width: 569px;
+  height: 617px;
+  left: 820px;
+  top: 248px;
+
+  background: #FFFFFF;
+  border-radius: 40px;
+
+
+}
+.imag{
+  background: url(./Dayflow\ Plant.png);
+  background-repeat: no-repeat;
+
+}
+
+.btn{
+  /* padding: 20px; */
+  
+  
+  font-family: "Nunito";
+  left:50px;
+  width:150px;
+  margin-top: 25px;
+  margin-left: 28%;
+  border-radius: 20px;
+  font-weight: bold;
+ 
+}
+@keyframes App-logo-spin {
+  from {
+    transform: rotate(0deg);
+  }
+  to {
+    transform: rotate(360deg);
+  }
+}
